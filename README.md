@@ -22,3 +22,9 @@ container fun with docker
 # invisible, refined out of existence, indifferent,
 # paring his fingernails
 #
+
+# add some more joyce quotes!
+# Poetry, even when apparently most fantastic, is
+# always a revolt against artifice, a revolt in a
+# sense, against actuality.
+#
