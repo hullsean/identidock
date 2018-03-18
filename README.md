@@ -6,3 +6,10 @@ container fun with docker
 # and automatic build.  Let's 
 # watch that happen right now!
 # 03.17.18
+
+# adding a second new line
+# to trigger another auto
+# build because we had set
+# the Dockerfile path incorrectly.
+# it's now ./Dockerfile
+# awesome sauce!
