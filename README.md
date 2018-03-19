@@ -28,3 +28,5 @@ container fun with docker
 # always a revolt against artifice, a revolt in a
 # sense, against actuality.
 #
+
+# auto publish & build our container!
